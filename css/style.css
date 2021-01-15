@@ -54,6 +54,12 @@ body {
     margin-bottom: 300px;
 }
 
+.btn-buy {
+    background-color: #db3b50;
+    color: white;
+    padding: 10px 20px;
+}
+
 .jacket-card img {
     background-color: #F1F1F1;
     width: 100%;
