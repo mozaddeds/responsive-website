@@ -85,3 +85,12 @@ body {
 .last-section {
     margin-bottom: 100px;
 }
+
+ /* @media (max-width:768px){ 
+    .first-responsive {
+        display: grid;
+        grid-template-columns: 500px;
+        width: 480px;
+
+    }
+} */
